@@ -1,3 +1,3 @@
 # Ranking
 
-![](ranking.pdf)
+![](ranking.png)
